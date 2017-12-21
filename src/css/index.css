@@ -1,0 +1,24 @@
+
+.container{
+	margin-top:20vh;
+}
+button{
+	border:none;
+	background: #ff9900;
+	padding: 5px;
+	color:rgb(255,255,255);
+	cursor:pointer;
+	border-radius: 10px;
+}
+button:focus{
+	border:none;
+	outline: none !important;
+}
+
+hgroup{
+	line-height: 3px;
+	margin-bottom: 30px;
+}
+h5{
+	color:rgb(120,120,120);
+}
